@@ -38,7 +38,7 @@ main.exe -algorithm all -size 10/10000/10
 ```bash
 main.exe -algorithm bubblesort -size 10/10000/10
 ```
-![Representation of the merge sorting algorithm](all_algorithms.png)
+![Representation of the merge sorting algorithm](bubblesort.png)
 ### Regression
 
 This project includes a **linear regression** module that uses mathematical formulas to analyze data through four different models:
@@ -57,7 +57,7 @@ The program computes each model using their respective mathematical formulas and
 main.exe -algorithm bubblesort -size 10/10000/10 predict 1
 ```
 ####Representation of the bubble sort algorithm and the best model that fit with it
-![Representation of the bubble sort algorithm and the best model that fit with it](all_algorithms.png)
+![Representation of the bubble sort algorithm and the best model that fit with it](bubblesort_prediction.png)
 
 ### Prediction
 
@@ -66,8 +66,8 @@ main.exe -algorithm bubblesort -size 10/10000/10 predict 1
 At the end of the program, if you activate the prediction option by entering `[predict -1]`, you will interact with the console. The program will prompt you to specify the number of elements you wish to predict. Using the formula from the best-fitting model, it will then provide an estimate of the execution time for the predictions.
 
 ### Exemple :
-####Exemple of console communication to predict the time of execution :
-![Representation of the bubble sort algorithm and the best model that fit with it](all_algorithms.png)
+### Exemple of console communication to predict the time of execution :
+![Exemple of console communication to predict the time of execution](exemple_console.jpg)
 
 ## Documentation
 For more information on how to use the program, you can type `main.exe -help` in the console. This command will display a list of available options and usage instructions to guide you through the functionalities of the application.

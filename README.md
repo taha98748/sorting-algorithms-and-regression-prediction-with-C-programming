@@ -29,12 +29,12 @@ Exemple :
 ```bash
 main.exe -algorithm all -size 10/10000/10
 ```
-#### Representation of different sorting algorithms
+### Representation of different sorting algorithms
 ![Representation of different sorting algorithms](all_algorithms.png)
 ```bash
 main.exe -algorithm all -size 10/10000/10
 ```
-#### Representation of one algorithm
+### Representation of one algorithm
 ```bash
 main.exe -algorithm bubblesort -size 10/10000/10
 ```

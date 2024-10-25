@@ -68,3 +68,6 @@ At the end of the program, if you activate the prediction option by entering `[p
 ### Exemple :
 ####Exemple of console communication to predict the time of execution :
 ![Representation of the bubble sort algorithm and the best model that fit with it](all_algorithms.png)
+
+
+For more information on how to use the program, you can type `main.exe -help` in the console. This command will display a list of available options and usage instructions to guide you through the functionalities of the application.

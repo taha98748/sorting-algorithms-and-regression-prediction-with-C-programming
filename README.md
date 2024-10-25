@@ -15,11 +15,11 @@ gcc -o app.exe main.c
 ```
 
 To execute the program :
-- If you are under Windows:
+### Windows:
 ```bash
 ./main.exe
 ```
-- If you are under Linux:
+### Linux:
 ```bash
 main.exe
 ```

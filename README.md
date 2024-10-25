@@ -23,3 +23,5 @@ To execute the program :
 ```bash
 main.exe
 ```
+### Sorting Algorithms
+- With the programm you can compare algorithms of sorting and know how they interact.

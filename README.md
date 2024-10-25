@@ -51,3 +51,20 @@ This project includes a **linear regression** module that uses mathematical form
 ### How It Works
 
 The program computes each model using their respective mathematical formulas and compares the accuracy of each by evaluating the residuals (errors) between predicted and actual values. At the end of the analysis, the program identifies the model that best fits the data based on these error comparisons, giving you the most suitable regression type for your dataset.
+
+### Exemple :
+```bash
+main.exe -algorithm bubblesort -size 10/10000/10 predict 1
+```
+####Representation of the bubble sort algorithm and the best model that fit with it
+![Representation of the bubble sort algorithm and the best model that fit with it](all_algorithms.png)
+
+### Prediction
+
+#### How It Works
+
+At the end of the program, if you activate the prediction option by entering `[predict -1]`, you will interact with the console. The program will prompt you to specify the number of elements you wish to predict. Using the formula from the best-fitting model, it will then provide an estimate of the execution time for the predictions.
+
+### Exemple :
+####Exemple of console communication to predict the time of execution :
+![Representation of the bubble sort algorithm and the best model that fit with it](all_algorithms.png)

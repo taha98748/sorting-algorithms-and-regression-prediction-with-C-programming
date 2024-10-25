@@ -25,3 +25,4 @@ main.exe
 ```
 ### Sorting Algorithms
 - With the programm you can compare algorithms of sorting and know how they interact.
+![Representation of different sorting algorithms](all_algorithms.png)

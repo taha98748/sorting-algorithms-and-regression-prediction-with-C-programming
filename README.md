@@ -18,6 +18,8 @@ To execute the program :
 - If you are under Windows:
 ```bash
 ./main.exe
+```
 - If you are under Linux:
 ```bash
 main.exe
+```

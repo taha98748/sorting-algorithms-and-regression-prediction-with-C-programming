@@ -56,7 +56,7 @@ The program computes each model using their respective mathematical formulas and
 ```bash
 main.exe -algorithm bubblesort -size 10/10000/10 predict 1
 ```
-####Representation of the bubble sort algorithm and the best model that fit with it
+#### Representation of the bubble sort algorithm and the best model that fit with it
 ![Representation of the bubble sort algorithm and the best model that fit with it](bubblesort_prediction.png)
 
 ### Prediction
